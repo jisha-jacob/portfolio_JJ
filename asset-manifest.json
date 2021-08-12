@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/portfolio_JJ/static/css/main.ada739f9.chunk.css",
-    "main.js": "/portfolio_JJ/static/js/main.f4465e60.chunk.js",
-    "main.js.map": "/portfolio_JJ/static/js/main.f4465e60.chunk.js.map",
+    "main.js": "/portfolio_JJ/static/js/main.5e5c9659.chunk.js",
+    "main.js.map": "/portfolio_JJ/static/js/main.5e5c9659.chunk.js.map",
     "runtime-main.js": "/portfolio_JJ/static/js/runtime-main.7ccd5336.js",
     "runtime-main.js.map": "/portfolio_JJ/static/js/runtime-main.7ccd5336.js.map",
     "static/js/2.56591988.chunk.js": "/portfolio_JJ/static/js/2.56591988.chunk.js",
@@ -12,13 +12,16 @@
     "index.html": "/portfolio_JJ/index.html",
     "static/css/main.ada739f9.chunk.css.map": "/portfolio_JJ/static/css/main.ada739f9.chunk.css.map",
     "static/js/2.56591988.chunk.js.LICENSE.txt": "/portfolio_JJ/static/js/2.56591988.chunk.js.LICENSE.txt",
+    "static/media/CommunicationCoach.2950f5e2.jpg": "/portfolio_JJ/static/media/CommunicationCoach.2950f5e2.jpg",
+    "static/media/Headshot.dbc7455d.jpg": "/portfolio_JJ/static/media/Headshot.dbc7455d.jpg",
     "static/media/Jisha_Jacob_Resume_portfolio.c7490bf1.pdf": "/portfolio_JJ/static/media/Jisha_Jacob_Resume_portfolio.c7490bf1.pdf",
+    "static/media/JobTutor.6f6cc446.jpg": "/portfolio_JJ/static/media/JobTutor.6f6cc446.jpg",
     "static/media/Header.css": "/portfolio_JJ/static/media/header.07310190.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.7ccd5336.js",
     "static/js/2.56591988.chunk.js",
     "static/css/main.ada739f9.chunk.css",
-    "static/js/main.f4465e60.chunk.js"
+    "static/js/main.5e5c9659.chunk.js"
   ]
 }
